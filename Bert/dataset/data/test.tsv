@@ -1,0 +1,17 @@
+Type	Acceptance Criteria
+Required	A username is needed
+MinCharacters	Password needs 8 or more letters and numbers
+Type	The ID should be a number
+Dropdown	Use a dropdown menu for this category
+Data	username and email should come from the user
+Required	You must enter the Field
+MinCharacters	Your Field should be above 8 characters long
+Data	The user should provide book name and book description
+Required	A username must be entered
+MinCharacters	no of letters in the password must be greater than 5
+Type	The type of ID should be number
+Dropdown	A dropdown should be used for booktype
+Data	the user should enter username and password
+Required	The username shouldnt be empty
+MinCharacters	the phone number should be 10 characters long
+Data	the address should be obtained from the user

@@ -1,0 +1,7 @@
+Type	AcceptanceCriteria
+Required	Field is required
+Required	Field shouldn�t be empty
+Required	Field cannot be empty
+MinCharacters	Field should be atleast 8 characters long
+MinCharacters	Field should have atleast 8 characters
+Type	Field should contain only numbers

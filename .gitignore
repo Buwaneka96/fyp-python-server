@@ -1,0 +1,12 @@
+#venv#
+
+/venv/
+
+/.vscode/
+
+#ouput folder of the mode#
+/output/
+
+*.bin
+
+output/

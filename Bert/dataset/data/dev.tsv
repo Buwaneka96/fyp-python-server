@@ -1,0 +1,74 @@
+Type	AcceptanceCriteria
+Dropdown	A dropdown list should use for the categories
+Dropdown	A dropdown must be used for Field
+Required	A Field is needed
+Required	A Field must be entered.
+Data	Book name and Book description are provided by the user
+Data	Book name and book description should be asked from the user 
+Data	Book name and the description should taken from the user
+Data	"Book name	 book description must be obtained from the user"
+MinCharacters	Enter a Field that is at least 8 characters long
+Type	Enter a number as the Field
+Required	Enter Field
+Type	Enter the Field number ( should be a numerical value)
+Type	Enter valField Field number
+Required	Enter your Field
+Dropdown	Field dropdown should be used
+Type	Field has to be a number
+Required	Field is a required field
+MinCharacters	Field is less than 8 characters
+Required	Field is mandatory
+Required	Field is mandatory
+Required	Field is mandatory
+Type	Field must be a number 
+MinCharacters	Field must contain 8 characters 
+MinCharacters	Field need to be contain at least 8 characters
+MinCharacters	Field should be 8 characters in length
+Dropdown	Field should be a dropdown
+Dropdown	Field should be a dropdown menu
+Type	Field should be a number
+Type	Field should be a valField number
+Type	Field should be an integer
+Dropdown	Field should be choosen from a dropdown
+Required	Field should be entered
+Type	Field should be neumeric
+Type	Field should be numeric
+MinCharacters	Field should contain a minimum of 8 characters
+MinCharacters	Field should contain at least 8 characters
+MinCharacters	Field should have minimum 8 characters in length
+MinCharacters	Field should have minimum of 8 characters 
+Type	Field shouls be a number 
+Data	Get book name and description from the user
+Data	Let the user enter the book name
+MinCharacters	Minimum character length of the Field must be 8
+Data	Name and description of the book needs to be taken from user
+Data	Name of the book and description has to collect from user 
+Required	Please enter Field
+Data	Please enter the book name and description
+Required	Please enter the Field
+Required	Please enter the Field
+MinCharacters	Please enter your Field
+Dropdown	Please use drop down for Field 
+Dropdown	Select the Field from a dropdown menu
+MinCharacters	The Field cannot be shorter than eight characters.
+Required	The Field is mandatory 
+Type	The Field only accepts numbers.
+MinCharacters	The Field requires atleast 8 characters
+Dropdown	The Field requires the use of a dropdown
+Dropdown	The Field should be selected from a dropdown menu.
+Type	The Field value must be a number
+MinCharacters	The minimum number of characters for the Field is 8
+Data	The user should provide book name and book description 
+Data	The user should supply the name and description of the book.
+Type	The value for Field should be a number
+Type	The value of Field should be numberical
+Dropdown	"To choose Field	 dropdown should be selected."
+Dropdown	Use a dropdown for Field
+Dropdown	Use dropdown menu to select a Field
+Dropdown	Use the dropdown menu to choose the catogory
+Data	user should enter the book name and description
+Data	User should input both Book name and Book description.
+Data	User should select the book name and book description
+Required	You must enter a Field
+Required	You must enter the Field
+MinCharacters	Your Field should be above 8 characters long

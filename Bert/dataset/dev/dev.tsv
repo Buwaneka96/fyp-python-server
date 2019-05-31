@@ -1,0 +1,6 @@
+Type	AcceptanceCriteria
+None	Username is required
+None	password shouldnt be empty
+None	email cannot be empty
+None	password should be atleast 8 characters long
+None	username should have atleast 8 characters
